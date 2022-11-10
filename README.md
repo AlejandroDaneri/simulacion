@@ -1,3 +1,3 @@
-# simulacion
+# Simulacion
 
 <img src="matrix.jpg" />
